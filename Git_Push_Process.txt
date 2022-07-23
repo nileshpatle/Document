@@ -1,0 +1,16 @@
+goto the respective directory where we need to create a file or our file is there,
+
+use -> mkdir "File Name" to create file need
+
+Enter this file location using the "cd" command
+"git init"
+"git status" -> not necessary
+"git add 'file_name'"
+"git commit -m 'Your Comment'"
+"git commit --global user. username 'Your Username'"
+
+Crete repository in GitHub online and copy this link
+"git remote add origin 'link'"
+"git push origin master"
+
+Done 
